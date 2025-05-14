@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://akashh-72.github.io/women-safety/sitemap.xml
+Sitemap: https://akashh-72.github.io/ladyGuard/sitemap.xml
 
 # Disallow admin and private areas
 Disallow: /admin/
